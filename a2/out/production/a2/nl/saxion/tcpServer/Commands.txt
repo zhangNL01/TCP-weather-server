@@ -1,0 +1,19 @@
+#### Commands index:
+1 - TIME,
+2 - TODAYWEATHER,
+3 - WEATHERFORECAST,
+4 - NEWS,
+5 - IPLOCATION,
+6 - QUIT
+---
+#### Commands describe:
+1 - get current time by the IP address of server internet, no further input needed besides the command.
+2 - Get current weather by city name, if no city name is entered, show weather of the Netherlands.
+3 - Get forecast weathers by city name, if no city name is entered, show weather of the Netherlands.
+4 - List top popular related news' titles by a keyword, if no keyword is entered, show news about the Netherlands.
+5 - get location by entered ip, for example: "IPLOCATION 145.76.109.49".
+6 - Stop the socket.
+---
+All the commands index can be either upper case or lower case.
+---
+A "json-20200518.jar" is needed to be add into library. Attached in the zip file.
